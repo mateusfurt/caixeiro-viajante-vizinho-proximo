@@ -1,0 +1,3 @@
+o problema do caixeiro viajante consiste em um viajante que quer viajar por todas as cidades pelo caminho mais curto, determinado pelas distancias entre as cidades e retornando até a cidade inicial no final sem ir até cidades visitadas anteriormente.
+este programa ultiliza o algoritimo de visinho mais proximo, que vai determinar a proxima cidade analizando seus vizinhos atuais e seguindo para a cidade não visitada com o caminho menor.
+este algoritimo não é o mais otimizado e possivelmente não irá demonstrar o caminho mais rápido.
